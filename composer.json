@@ -1,0 +1,14 @@
+{
+    "name": "1517297265eif",
+    "description": "Easy Instagram PRO",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirsten Larsen",
+            "email": "klarsendesign@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
